@@ -1,0 +1,5 @@
+enter the host to be scanned: amazon.com
+starting scanf on host:  98.82.161.185
+port 80: OPEN
+port 443: OPEN
+Time taken:  465.8972454071045
